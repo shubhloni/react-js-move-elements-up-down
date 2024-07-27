@@ -1,0 +1,13 @@
+.listItem {
+  margin: 2px 0;
+  width: 100%;
+  background-color: lightgrey;
+}
+
+.selected {
+  background-color: grey;
+}
+
+.listItem:hover {
+  background-color: grey;
+}
